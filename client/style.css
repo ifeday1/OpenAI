@@ -87,10 +87,8 @@ body {
 
 .message {
   flex: 1;
-
   color: #dcdcdc;
   font-size: 20px;
-
   max-width: 100%;
   overflow-x: scroll;
 
@@ -117,10 +115,9 @@ form {
   margin: 0 auto;
   padding: 10px;
   background: #40414F;
-
   display: flex;
   flex-direction: row;
-  gap: 10px;
+  gap: 10px
 }
 
 textarea {
